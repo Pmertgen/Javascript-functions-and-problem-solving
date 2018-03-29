@@ -6,5 +6,7 @@ This is a collection of useful Javascript functions that involve reoccuring task
 <p>Added PigLatin and a card-turning game</p>
 <h2>March 2018</h2> 
 <p>Added the function that checks for the longest word in s string<br>
-  Added a function that takes two parameters and returns a string as many times as wanted</p>
+  Added a function that takes two parameters and returns a string as many times as wanted<br>
+  Added a function that converts the first letter of every word in a string into uppercase and the rest to lowercase
+</p>
 
